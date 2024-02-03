@@ -1,2 +1,2 @@
 # SMART_CHEF-APP
-A Food Recipe &amp; NutriScan by Image
+A Food Recipe & NutriScan by Image
